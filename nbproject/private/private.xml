@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Current Project"/>
+        <group name="CAS"/>
+        <group name="Main Project">
+            <file>file:/D:/Projects/Arduino/Galileo/LaserBot_Galileo/src/laserbot_galileo/svgPlotter/SVGProcess.java</file>
+            <file>file:/D:/Projects/Arduino/Galileo/LaserBot_Galileo/src/laserbot_galileo/svgPlotter/DrawNowSVG.java</file>
+            <file>file:/D:/Projects/Arduino/Galileo/LaserBot_Galileo/src/laserbot_galileo/svgPlotter/SVGPlotter.java</file>
+            <file>file:/D:/Projects/Arduino/Galileo/LaserBot_Galileo/src/laserbot_galileo/gui/GUIMain.java</file>
+            <file>file:/D:/Projects/Arduino/Galileo/LaserBot_Galileo/src/laserbot_galileo/svgPlotter/Edge.java</file>
+            <file>file:/D:/Projects/Arduino/Galileo/LaserBot_Galileo/src/laserbot_galileo/laserDraw/Image.java</file>
+            <file>file:/D:/Projects/Arduino/Galileo/LaserBot_Galileo/src/laserbot_galileo/Main.java</file>
+            <file>file:/D:/Projects/Arduino/Galileo/LaserBot_Galileo/src/laserbot_galileo/Common.java</file>
+            <file>file:/D:/Projects/Arduino/Galileo/LaserBot_Galileo/src/laserbot_galileo/io/StepperControl.java</file>
+        </group>
+        <group>
+            <file>file:/D:/Projects/Old/Laser%20Bot%20_%20Galileo%20Ver/LaserBot_Galileo/src/laserbot_galileo/io/MegaCommand.java</file>
+            <file>file:/D:/Projects/Old/Laser%20Bot%20_%20Galileo%20Ver/LaserBot_Galileo/src/laserbot_galileo/io/StepperControl.java</file>
+            <file>file:/D:/Projects/Old/Laser%20Bot%20_%20Galileo%20Ver/LaserBot_Galileo/src/laserbot_galileo/Common.java</file>
+            <file>file:/D:/Projects/Old/Laser%20Bot%20_%20Galileo%20Ver/LaserBot_Galileo/src/laserbot_galileo/laserDraw/LaserDrawing.java</file>
+            <file>file:/D:/Projects/Old/Laser%20Bot%20_%20Galileo%20Ver/LaserBot_Galileo/src/laserbot_galileo/Main.java</file>
+        </group>
+    </open-files>
+</project-private>
